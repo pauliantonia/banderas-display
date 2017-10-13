@@ -1,0 +1,14 @@
+.yellow {
+  background-color: #FACC2E;
+  padding-bottom: 3em;
+}
+
+.grey {
+  background-color: #3F3D3D;
+  padding-bottom: 3em;
+  color: white;
+}
+
+h3 {
+  padding: 0.5em;
+}

@@ -1,0 +1,16 @@
+.yellow {
+  background-color: #FACC2E;
+  height: 150px;
+  width: 250px;
+}
+
+.grey {
+  background-color: #3F3D3D;
+  color: white;
+  height: 150px;
+  width: 250px;
+}
+
+h3 {
+  padding: 0.5em;
+}
